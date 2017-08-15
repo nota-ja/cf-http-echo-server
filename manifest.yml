@@ -1,0 +1,7 @@
+---
+applications:
+  - name: echo
+    memory: 64m
+    disk_quota: 128m
+    random-route: true
+    command: './node_modules/.bin/http-echo-server'

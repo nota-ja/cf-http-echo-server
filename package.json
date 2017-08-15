@@ -1,0 +1,8 @@
+{
+  "name": "cf-http-echo-server",
+  "version": "0.0.1",
+  "author": "dev@nota.m001.jp",
+  "dependencies": {
+    "http-echo-server": "1.0.0"
+  }
+}
